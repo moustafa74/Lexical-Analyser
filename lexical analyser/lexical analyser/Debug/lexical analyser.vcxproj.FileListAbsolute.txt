@@ -1,0 +1,3 @@
+C:\Users\wwwmo\source\repos\lexical analyser\lexical analyser\Debug\lexical analyser.vcxproj.AssemblyReference.cache
+C:\Users\wwwmo\source\repos\lexical analyser\lexical analyser\Debug\lexicalanalyser.MyForm.resources
+C:\Users\wwwmo\source\repos\lexical analyser\lexical analyser\Debug\lexical analyser.vcxproj.GenerateResource.cache

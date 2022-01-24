@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(3161,5): error MSB3821: Couldn't process file MyForm.resx due to its being in the Internet or Restricted zone or having the mark of the web on the file. Remove the mark of the web if you want to process these files.
